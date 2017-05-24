@@ -1,0 +1,7 @@
+.env
+vendor/
+public/js/bundle.min.js
+public/css/
+.idea
+bower_components
+node_modules

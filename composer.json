@@ -1,0 +1,15 @@
+{
+    "authors": [
+        {
+            "name": "Chris Thronebury",
+            "email": "cthronebury@gmail.com",
+            "homepage": "http://thronebury.com"
+        }
+    ],
+    "require": {
+        "sendgrid/sendgrid": "^5.1"
+    },
+    "require-dev": {
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
