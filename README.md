@@ -4,7 +4,7 @@
  
  The page is designed as a landing page with "two step opt-in".
  
- ##Usage
+ ## Usage
  
  Clone the directory and then run the following commands:
  
@@ -23,11 +23,11 @@
  $ composer Install
  ```
  
- ###Environment Variables
+ ### Environment Variables
  
  Copy .env.example to .env and add your sendgrid api key and list number
  
- ###SASS
+ ### SASS
  
  To compile your css, run the following command (requires GULP):
  
@@ -41,7 +41,7 @@
   $ gulp
   ```
  
- ###JavaScript
+ ### JavaScript
  
  To compile your JS, run the following command (requires GULP):
  
