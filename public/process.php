@@ -65,7 +65,7 @@ if ( ! empty($errors)) {
     }
     $data['whaps'] = $response->statusCode();
     if ($list_response->statusCode() == 201) {
-        $data['message'] = "<h3>Hooray!</h3> You've successfully signed up.  Check your email on Friday to see if you've won. Best of luck :)";
+        $data['message'] = "<h3>Hooray!</h3> You've successfully signed up.";
     }
 
     // show a message of success and provide a true success variable
